@@ -1,0 +1,45 @@
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_alignParentBottom="true"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <TextView
+        android:id="@+id/lblNumero"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="100dp"
+        android:text="0"
+        android:textAlignment="center"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnRemove"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="-"
+            android:background="#FFA500"
+            android:onClick="remover"
+            android:textColor="#FFFFFFFF"
+            android:textSize="50dp"/>
+
+        <Button
+            android:id="@+id/btnAdiciona"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="+"
+            android:background="#ff0900"
+            android:onClick="adicionar"
+            android:textColor="#FFFFFFFF"
+            android:textSize="50dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
