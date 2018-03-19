@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PetShop.iml" filepath="$PROJECT_DIR$/PetShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-PetShop.iml" filepath="$PROJECT_DIR$/04-PetShop.iml" />
+      <module fileurl="file://C:\Users\PatrickBib's\Desktop\IOT_ANDROID\04-PetShop\PetShop.iml" filepath="C:\Users\PatrickBib's\Desktop\IOT_ANDROID\04-PetShop\PetShop.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\PatrickBib's\Desktop\IOT_ANDROID\04-PetShop\app\app.iml" filepath="C:\Users\PatrickBib's\Desktop\IOT_ANDROID\04-PetShop\app\app.iml" />
     </modules>
   </component>
 </project>
