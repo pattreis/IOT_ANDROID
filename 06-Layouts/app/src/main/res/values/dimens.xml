@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marging_padding_padrao">24dp</dimen>
+    <dimen name="margin_img">24dp</dimen>
+    <dimen name="margin_btn">24dp</dimen>
+</resources>

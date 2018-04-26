@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RelativeLayoutActivety</string>
+    <string name="abrir_relative_layout">Abrir Relative Layout</string>
+    <string name="abrir_frame_layout">Abrir Frame Layout</string>
+    <string name="digite_seu_usuario">Digite seu usuario</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="abrir_absolut_layout">Abrir Absolut Layout</string>
+    <string name="ok">Ok</string>
+    <string name="um_texto_de_exemplo">Um texto de exemplo</string>
+    <string name="sair">Sair</string>
+    <string name="abrir_table_layout">Abrir Table Layout</string>
+    <string name="botao1">Botao1</string>
+    <string name="botao2">Botao2</string>
+    <string name="botao3">Botao3</string>
+    <string name="botao4">botao4</string>
+    <string name="botao5">botao5</string>
+    <string name="botao6">botao6</string>
+</resources>
